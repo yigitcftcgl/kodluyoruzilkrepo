@@ -1,3 +1,3 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
-![alt text](C:\Users\Yigit\Downloads)
+![script](C:\Users\Yigit\Downloads\markdown.png)
